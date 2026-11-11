@@ -1,7 +1,11 @@
 Tampilan coding
 GET
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/54e06be8-9e49-47b7-a23d-a5062b713f9a" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f2e786dc-c9ca-45b3-91d0-631bdb617b0a" />
+
+put
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b740952b-c2ea-49e4-9550-fc511ae28b6a" />
+
 
 post
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/741b1b92-0e72-4e16-99bd-d1a32b7104e8" />
